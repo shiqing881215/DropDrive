@@ -1,0 +1,47 @@
+#logo {
+	width: 287.5px;
+	height: 162.3px;
+	position: absolute; 
+	top: 5%; 
+	left: 35%;
+}
+
+#logoName {
+	position: absolute; 
+	top: 28%; 
+	left: 40%;
+}
+
+#link {
+	position: absolute; 
+	top: 36%; 
+	left: 42%;
+}
+
+#dropboxLogo {
+	height : 140px;
+	width : 140px;
+	position: absolute; 
+	top: 40%; 
+	left: 30%;
+}
+
+#dbutton {
+	position: absolute; 
+	top: 60%; 
+	left: 30%;
+}
+
+#googleDriveLogo {
+	height : 140px;
+	width : 210px;
+	position: absolute; 
+	top: 40%; 
+	left: 50%;
+}
+
+#gbutton {
+	position: absolute; 
+	top: 60%; 
+	left: 52%;
+}
