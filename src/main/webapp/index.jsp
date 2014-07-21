@@ -222,7 +222,7 @@
 	<img id="logo" alt="logo" src="resource/google-drive-vs-dropbox.jpg"></img>
 	<h1 id="logoName"> DropDrive </h1>
 	<div id="link">
-		<a href="https://github.com/..">GitHub</a> |
+		<a href="https://github.com/shiqing881215/DropDrive">GitHub</a> |
 		<a href="https://youtube.com/...">YouTube</a>
 	</div>
 	
