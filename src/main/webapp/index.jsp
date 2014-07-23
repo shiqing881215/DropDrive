@@ -223,7 +223,7 @@
 	<h1 id="logoName"> DropDrive </h1>
 	<div id="link">
 		<a href="https://github.com/shiqing881215/DropDrive">GitHub</a> |
-		<a href="https://youtube.com/...">YouTube</a>
+		<a href="https://www.youtube.com/watch?v=6ILKUvDjah0&feature=youtu.be">YouTube</a>
 	</div>
 	
 	<img id="dropboxLogo" alt="dropboxLogo" src="resource/dropbox.png">
